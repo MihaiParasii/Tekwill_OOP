@@ -1,6 +1,6 @@
 namespace OOP1;
 
-public class Bird : BaseAnimal
+internal class Bird : BaseAnimal
 {
     public required string FlyType { get; set; }
     

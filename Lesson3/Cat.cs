@@ -1,6 +1,6 @@
 namespace OOP1;
 
-public class Cat : Animal, IRunnable
+internal class Cat : Animal, IRunnable
 {
     public override void MakeSound()
     {

@@ -1,6 +1,6 @@
 namespace OOP1;
 
-public abstract class Animal
+internal abstract class Animal
 {
     public abstract void MakeSound();
 

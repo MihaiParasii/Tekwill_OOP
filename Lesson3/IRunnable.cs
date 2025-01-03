@@ -1,6 +1,6 @@
 namespace OOP1;
 
-public interface IRunnable
+internal interface IRunnable
 {
     public void Run();
 }

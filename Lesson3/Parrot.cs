@@ -1,6 +1,6 @@
 namespace OOP1;
 
-public class Parrot : Bird
+internal class Parrot : Bird
 {
     public required string Vocabulary { get; set; }
 

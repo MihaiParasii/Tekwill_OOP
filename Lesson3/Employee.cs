@@ -1,6 +1,6 @@
 namespace OOP1;
 
-public class Employee(string name)
+internal class Employee(string name)
 {
     public string Name { get; set; } = name;
 

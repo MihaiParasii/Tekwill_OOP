@@ -1,6 +1,6 @@
 namespace OOP1;
 
-public class Mammal : BaseAnimal
+internal class Mammal : BaseAnimal
 {
     public required string FurColor { get; set; }
 

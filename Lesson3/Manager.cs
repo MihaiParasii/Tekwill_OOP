@@ -1,6 +1,6 @@
 namespace OOP1;
 
-public class Manager(string name, string department) : Employee(name)
+internal class Manager(string name, string department) : Employee(name)
 {
     public string Department { get; set; } = department;
 
