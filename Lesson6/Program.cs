@@ -1,4 +1,6 @@
-﻿namespace Lesson6;
+﻿using System.Numerics;
+
+namespace Lesson6;
 
 internal static class Program
 {
